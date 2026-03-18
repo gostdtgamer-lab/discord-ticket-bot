@@ -1,0 +1,10 @@
+discord-ticket-bot
+│
+├ bot.js
+├ dashboard.js
+├ package.json
+├ config.json
+├ tickets.json
+├ pendingCodes.json
+└ public/
+   └ index.html
